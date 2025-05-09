@@ -1,6 +1,6 @@
 flask
 flask-cors
-torch==2.1.0       
+torch==2.2.2      
 torchvision
 facenet-pytorch
 opencv-python-headless
